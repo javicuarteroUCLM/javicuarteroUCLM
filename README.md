@@ -87,6 +87,8 @@
     <a href="https://github.com/VictorJimenezDIaz/WiseBet">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorJimenezDIaz&theme=highcontrast&repo=WiseBet" />
   </a>
+  <a href="https://github.com/luisbl03/PracticaLab">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisbl03&theme=highcontrast&repo=PracticaLab"
 </div>
 
 -----
