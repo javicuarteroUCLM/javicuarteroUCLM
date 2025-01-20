@@ -81,6 +81,9 @@
   </a>
 
 ### 👥👥 Team Projects
+  <a href="https://github.com/javicuarteroUCLM/appWebCompra-TSW">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javicuarteroUCLM&theme=highcontrast&repo=appWebCompra-TSW" />
+  </a>
   <a href="https://github.com/gonzalodlr/ipokemon">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gonzalodlr&theme=highcontrast&repo=ipokemon" />
   </a>
